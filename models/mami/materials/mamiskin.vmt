@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/survivors/producer/mamiskin"
+	"$nocull" 1
+}

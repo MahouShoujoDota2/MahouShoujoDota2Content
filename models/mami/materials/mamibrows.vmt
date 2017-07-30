@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/survivors/producer/mamibrows"
+	"$nocull" 1
+}
